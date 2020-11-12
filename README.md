@@ -1,3 +1,3 @@
-# My First React
+# Stranger's Things REACT
 
-Hey Welcome
+Welcome
